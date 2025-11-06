@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "pdf-parse": "^2.4.5",
+    "pdf-parse-new": "^1.4.1",
+    "pdf-table-extractor": "^1.0.3"
+  } ,
+  "scripts": {
+  "start": "node index.js"
+}
+}
